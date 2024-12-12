@@ -42,9 +42,14 @@ This project is a simple React app that allows users to input their first name a
 
 ## Screenshots
 
-Below is a screenshot of the homepage displaying the flag cards grid:
+Below are screenshots showing the app in action:
+
+- **Mandatory Field:** The app with the form fields for entering the first and last name.
 
 ![Full Name][Mandatory field]
+
+- **Full Name:** The app displaying the full name after form submission.
+
 ![Full Name][full name]
 
 ## Usage
